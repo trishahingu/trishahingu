@@ -58,16 +58,13 @@
 ---
 
 # 📊 GitHub Statistics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=trishahingu&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight" />
+</p>
 
 # 📈 Most Used Languages
 
