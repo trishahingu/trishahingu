@@ -96,7 +96,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/trisha-hingu-630252341/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -104,7 +104,7 @@
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:trishahingu406@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
