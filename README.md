@@ -239,17 +239,23 @@ Helping developers:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+height="180"
+/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+height="180"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trishahingu&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://streak-stats.demolab.com?user=trishahingu&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-
----
 
 # 🏆 GitHub Trophies
 
