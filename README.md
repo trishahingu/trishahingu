@@ -297,10 +297,14 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=trishahingu&theme=tokyo-night&hide_border=true"
+src="https://gh-heat.anishroy.com/api/trishahingu/svg?theme=purple&darkMode=true"
 width="95%"
-alt="GitHub Activity Graph"
+alt="Trisha Hingu GitHub Contribution Activity"
 />
+
+<br/><br/>
+
+### 💻 Code • 🌱 Contribute • 🚀 Learn • 💜 Grow
 
 </div>
 
