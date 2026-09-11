@@ -413,11 +413,23 @@ I'm always interested in collaborating on:
 
 ---
 
+---
+
 # 🐍 Watch My Contributions Grow
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trishahingu/trishahingu/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+### 🌱 Every contribution is a step towards something bigger.
+
+<img
+src="https://gh-heat.anishroy.com/api/trishahingu/svg?theme=purple&darkMode=true"
+width="95%"
+alt="Trisha Hingu GitHub Contributions"
+/>
+
+<br/><br/>
+
+### 💻 Code • 🌱 Contribute • 🚀 Learn • 💜 Grow
 
 </div>
 
