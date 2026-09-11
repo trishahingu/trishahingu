@@ -1,77 +1,91 @@
 <div align="center">
 
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80" width="100%" alt="AI Technology Banner"/>
+
+<br/><br/>
+
 # ✨ Hey, I'm Trisha Hingu 👋
 
-### 🚀 AI & Full-Stack Developer • Open Source Explorer • Problem Solver
+### 🤖 AI & Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Technology+%F0%9F%9A%80;Building+AI+Powered+Experiences+%F0%9F%A4%96;Creating+Projects+That+Solve+Real+Problems+%F0%9F%92%A1;Build.+Learn.+Innovate.+Repeat.+%E2%9C%A8" />
-
-<br/>
-
-> 💭 *"I don't just write code. I build ideas into experiences."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Digital+Experiences+%F0%9F%9A%80;Building+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Technology+One+Project+At+A+Time+%F0%9F%92%BB;Build.+Learn.+Innovate.+Repeat.+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=trishahingu&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=trishahingu&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+
+<a href="https://github.com/trishahingu">
+<img src="https://img.shields.io/github/followers/trishahingu?label=Followers&style=for-the-badge&color=A855F7"/>
+</a>
+
+<br/><br/>
+
+> ### 💭 *"I don't just write code. I turn ideas into experiences."*
 
 </div>
 
 ---
 
-# 🌸 About Me
+## 🌸 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
 const trisha = {
+
+    name: "Trisha Hingu",
 
     role: "AI & Full-Stack Developer",
 
     education: "B.Sc. IT Student 🎓",
 
-    passions: [
+    interests: [
         "Artificial Intelligence 🤖",
         "Full Stack Development 💻",
         "Computer Vision 👁️",
-        "Open Source 🌍",
-        "Hackathons 🏆"
+        "Cyber Security 🔐",
+        "Open Source 🌍"
     ],
 
-    currentlyBuilding: "Real-world AI solutions",
+    currentlyLearning: "Advanced AI & System Design",
 
-    mindset: "Learn → Build → Break → Improve → Repeat 🚀"
+    mindset: "Learn → Build → Improve → Repeat 🚀"
 };
 ```
 
-### ✨ A little more about me
+### ✨ What I'm Into
 
-* 🤖 Exploring **Artificial Intelligence & Applied AI**
-* 💻 Building **Full-Stack Applications**
+* 🤖 Building **AI-powered applications**
+* 💻 Creating **Full-Stack web solutions**
+* 🔐 Exploring **Digital Security & Privacy**
 * 👁️ Experimenting with **Computer Vision**
-* 🔐 Interested in **Digital Security & Privacy**
-* 🌍 Growing through **Open Source**
-* 🏆 Passionate about **Hackathons & Innovation**
-* 🚀 Love transforming ideas into real working products
+* 🌍 Contributing to **Open Source**
+* 🏆 Participating in **Hackathons**
+* 🚀 Turning ideas into real-world projects
+
+<br clear="right"/>
 
 ---
 
-# ⚡ My Tech Universe
+## ⚡ My Tech Universe
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp&theme=dark"/>
 
-### 🌐 Web & Backend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,laravel,fastapi,bootstrap"/>
+### 🌐 Web Development
 
-### 🤖 AI & Data
+<img src="https://skillicons.dev/icons?i=html,css,react,laravel,bootstrap,fastapi&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=opencv,mysql,mongodb,postgres"/>
+<br/><br/>
 
-### 🛠️ Developer Tools
+### 🤖 AI • Database • Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter,eclipse"/>
+<img src="https://skillicons.dev/icons?i=opencv,mysql,mongodb,git,github,vscode,postman,jupyter&theme=dark"/>
 
 </div>
 
@@ -81,63 +95,89 @@ const trisha = {
 
 <div align="center">
 
-| 🌟 Project            | 💡 Description                                 | 🛠️ Tech            |
-| --------------------- | ---------------------------------------------- | ------------------- |
-| 🌱 **EcoPulse**       | AI-powered Energy Intelligence Platform        | AI • Gemini • IoT   |
-| 🧠 **KAEL**           | Digital Cognitive Twin Platform with AI Memory | AI • JavaScript     |
-| 🌊 **OceanVerse 3D**  | Interactive 3D Ocean Simulation                | C/C++ • OpenGL      |
-| 🏢 **SmartDesk**      | Enterprise Workforce Management System         | Laravel • MySQL     |
-| 🏛️ **SmartGov AI**   | Secure AI-powered Government Service Platform  | AI • Security       |
-| ✈️ **SmartTourismAI** | Intelligent Travel Planning Platform           | Python • ML • MySQL |
+<table>
 
-</div>
-
-<br/>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌱 EcoPulse
 
-> **AI Energy Intelligence Platform**
+> ⚡ AI-Powered Energy Intelligence Platform
 
-⚡ Intelligent energy analysis
-🤖 AI-powered insights
-📊 Smart data storytelling
-🌍 Sustainability focused
+🤖 Smart AI Insights
+📊 Energy Analytics
+🌍 Sustainability Focused
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧠 KAEL
 
-> **Your Digital Cognitive Twin**
+> 💭 Your Digital Cognitive Twin
 
-A platform designed to:
+🧠 Intelligent Memory
+📚 Knowledge System
+⚡ Productivity Focused
 
-* 🧠 Learn from users
-* 💭 Remember important information
-* 📚 Build intelligent knowledge
-* ⚡ Improve productivity
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ### 🏛️ SmartGov AI
 
-> **AI-powered Government Service Platform**
+> 🤖 AI-Powered Government Platform
 
-🔐 Secure Document Verification
+🔐 Secure Services
 🎙️ Voice Assistance
-🤖 Intelligent Citizen Support
-📄 Digital Government Services
+📄 Smart Documentation
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌊 OceanVerse 3D
 
-> **Explore the Ocean Through Code**
+> 🎮 Interactive 3D Ocean Experience
 
 🌊 Dynamic Waves
 🚤 Controllable Boat
 🐟 Marine Life
-🌪️ Giant Wave Events
-🎮 Interactive 3D Environment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 SmartDesk
+
+> 💼 Enterprise Management System
+
+👥 Workforce Management
+📊 Smart Dashboard
+⚡ Productivity Tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ SmartTourismAI
+
+> 🗺️ Intelligent Travel Platform
+
+🤖 AI Recommendations
+📍 Smart Planning
+🌍 Travel Intelligence
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -145,51 +185,53 @@ A platform designed to:
 
 <div align="center">
 
+<img width="450" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+
 ### 🧭 OpenSource Pathfinder
 
-> 🤖 **An AI-powered Open Source Contribution Navigator**
+> 🤖 An AI-powered Open Source Contribution Navigator
 
-Helping beginners:
+Helping developers:
 
-🔎 Discover repositories
-🎯 Find beginner-friendly issues
-📚 Understand codebases
-🤝 Start contributing
-🚀 Grow in Open Source
+🔎 Discover repositories • 🎯 Find beginner-friendly issues • 📚 Understand codebases • 🤝 Start contributing
 
 </div>
 
 ---
 
-# 🌍 Open Source Journey
+# 🌍 My Open Source Journey
+
+<div align="center">
 
 ```text
-          🌱 START
-             │
-             ▼
-       📚 LEARN CODE
-             │
-             ▼
-      🔎 EXPLORE PROJECTS
-             │
-             ▼
-      🛠️ MAKE CONTRIBUTIONS
-             │
-             ▼
-      🤝 COLLABORATE
-             │
-             ▼
-          🚀 GROW
+        🌱 START
+           │
+           ▼
+     📚 LEARN & BUILD
+           │
+           ▼
+     🔎 EXPLORE PROJECTS
+           │
+           ▼
+     🛠️ CONTRIBUTE
+           │
+           ▼
+     🤝 COLLABORATE
+           │
+           ▼
+         🚀 GROW
 ```
 
-### My Open Source Goals
+</div>
 
-* 🔎 Discover meaningful projects
+### 🎯 My Open Source Goals
+
+* 🌱 Learn from real-world projects
+* 🔎 Discover meaningful repositories
 * 🛠️ Make impactful contributions
 * 🤝 Collaborate with developers
-* 📚 Learn from real-world codebases
-* 🚀 Build tools for developers
-* 🌍 Give back to the community
+* 📚 Improve through open source
+* 🚀 Build useful tools for developers
 
 ---
 
@@ -197,13 +239,11 @@ Helping beginners:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishahingu&theme=tokyonight&hide_border=true"/>
 
@@ -211,49 +251,70 @@ Helping beginners:
 
 ---
 
-# 🎯 2026 Developer Goals
-
-```diff
-+ Build Powerful AI Projects
-+ Contribute to Open Source
-+ Participate in Hackathons
-+ Improve System Design Skills
-+ Explore AI + Security
-+ Build Real-World Products
-+ Collaborate With Developers
-```
-
----
-
-# 🧠 Things I Love Building
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-🤖 AI Applications
-💻 Full Stack Platforms
-🔐 Security Solutions
-👁️ Computer Vision Projects
-🌍 Developer Tools
-📱 Smart Applications
-🏆 Hackathon Projects
+<img src="https://github-profile-trophy.vercel.app/?username=trishahingu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 💭 Developer Mindset
+# 🎯 My 2026 Developer Goals
+
+```diff
++ 🤖 Build Powerful AI Applications
++ 💻 Create Real-World Full Stack Projects
++ 🌍 Contribute to Open Source
++ 🏆 Participate in More Hackathons
++ 🔐 Explore AI + Security
++ 🧠 Improve System Design Skills
++ 🚀 Build Products That Make an Impact
+```
+
+---
+
+# 💡 Things I Love Building
 
 <div align="center">
 
-### ✨ `Think Different.`
+<table>
+<tr>
+<td align="center">🤖<br/><b>AI Apps</b></td>
+<td align="center">💻<br/><b>Web Apps</b></td>
+<td align="center">🔐<br/><b>Security</b></td>
+<td align="center">👁️<br/><b>Computer Vision</b></td>
+<td align="center">🌍<br/><b>Open Source</b></td>
+<td align="center">🏆<br/><b>Hackathons</b></td>
+</tr>
+</table>
 
-### 💡 `Build Something.`
+</div>
 
-### 🛠️ `Break It.`
+---
 
-### 🚀 `Make It Better.`
+# 🧠 Developer Mindset
 
-### 🔁 `Repeat.`
+<div align="center">
+
+### 💡 Think Different
+
+↓
+
+### 🛠️ Build Something
+
+↓
+
+### 🔥 Break It
+
+↓
+
+### 🚀 Make It Better
+
+↓
+
+### 🔁 Repeat
 
 </div>
 
@@ -261,45 +322,65 @@ Helping beginners:
 
 # 🤝 Let's Collaborate
 
-I'm always excited to collaborate on:
+I'm always interested in collaborating on:
 
-```text
-🤖 Artificial Intelligence
-💻 Full Stack Projects
-🌍 Open Source
-🛠️ Developer Tools
-🔐 Cyber Security
-🏆 Hackathons
-🚀 Innovative Ideas
-```
+<div align="center">
+
+🤖 **Artificial Intelligence** • 💻 **Full Stack Development** • 🔐 **Cyber Security**
+
+🌍 **Open Source** • 🛠️ **Developer Tools** • 🏆 **Hackathons**
+
+</div>
 
 ---
 
-# 🌐 Find Me Around The Web
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/trishahingu">
-<img src="https://img.shields.io/badge/GitHub-Trisha%20Hingu-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Trisha%20Hingu-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn here -->
+<!-- Add your LinkedIn URL below -->
 
-<!--
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
+
+<!-- Add your portfolio URL below -->
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Journey
+# 🐍 Watch My Contributions Grow
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/trishahingu/trishahingu/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/trishahingu/trishahingu/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# ⚡ Fun Developer Fact
+
+<div align="center">
+
+```text
+while (alive) {
+    eat();
+    sleep();
+    code();
+    buildSomethingAwesome();
+    repeat();
+}
+```
 
 </div>
 
@@ -307,16 +388,12 @@ I'm always excited to collaborate on:
 
 <div align="center">
 
-## 🚀 Let's Build The Future With Technology
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%92%9C" alt="Footer Typing SVG"/>
 
-### 💜 Build • Learn • Innovate • Contribute • Repeat
+<br/><br/>
 
-<br/>
+## 💜 Build • Learn • Innovate • Repeat
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+create+something+amazing+together!+%F0%9F%9A%80" />
-
-<br/>
-
-### ⭐ *If you like my work, don't forget to explore my repositories!*
+### ⭐ Thanks for stopping by!
 
 </div>
