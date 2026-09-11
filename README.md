@@ -437,8 +437,6 @@ alt="Trisha Hingu GitHub Contributions"
 
 </div>
 
----
-
 # ⚡ Fun Developer Fact
 
 <div align="center">
