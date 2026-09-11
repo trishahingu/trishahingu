@@ -292,6 +292,20 @@ alt="GitHub Streak"
 
 ---
 
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=trishahingu&theme=tokyo-night&hide_border=true"
+width="95%"
+alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
