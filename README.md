@@ -235,27 +235,62 @@ Helping developers:
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=trishahingu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-height="180"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishahingu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-height="180"
+<!-- Profile Details -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trishahingu&theme=tokyonight"
+width="95%"
+alt="GitHub Profile Details"
 />
 
 <br/><br/>
 
-<img 
+<!-- GitHub Stats -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trishahingu&theme=tokyonight"
+width="48%"
+alt="GitHub Stats"
+/>
+
+<!-- Top Languages -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trishahingu&theme=tokyonight"
+width="48%"
+alt="Top Languages"
+/>
+
+<br/><br/>
+
+<!-- Most Used Languages -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trishahingu&theme=tokyonight"
+width="48%"
+alt="Most Commit Languages"
+/>
+
+<!-- Productive Time -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trishahingu&theme=tokyonight&utcOffset=5.5"
+width="48%"
+alt="Productive Time"
+/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img
 src="https://streak-stats.demolab.com?user=trishahingu&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
+
+---
 
 # 🏆 GitHub Trophies
 
