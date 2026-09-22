@@ -292,23 +292,7 @@ alt="GitHub Streak"
 
 ---
 
-# 🐍 Watch My Contributions Grow
 
-<div align="center">
-
-### 🌱 Every contribution is a step towards something bigger.
-
-<img
-src="https://gh-heat.anishroy.com/api/trishahingu/svg?theme=purple&darkMode=true"
-width="95%"
-alt="Trisha Hingu GitHub Contributions"
-/>
-
-<br/><br/>
-
-### 💻 Code • 🌱 Contribute • 🚀 Learn • 💜 Grow
-
-</div>
 
 # 🏆 GitHub Trophies
 
