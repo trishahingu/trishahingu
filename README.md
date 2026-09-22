@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80" width="100%" alt="AI Technology Banner"/>
-
-<br/><br/>
-
 # ✨ Hey, I'm Trisha Hingu 👋
 
 ### 🤖 AI & Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Explorer
