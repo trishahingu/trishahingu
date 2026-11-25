@@ -58,8 +58,8 @@ I build intelligent applications and innovative digital solutions by combining t
 I'm always open to learning, collaborating and building innovative technology.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/trishahingu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trisha-hingu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sevenfold-portfolio.lovable.app)
 ---
 
 <p align="center">
