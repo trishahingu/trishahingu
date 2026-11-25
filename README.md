@@ -52,18 +52,6 @@ I build intelligent applications and innovative digital solutions by combining t
 - IEEE WIE ILS 2026 – National Hackathon Participant
 - Software Development Internship Experience
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trishahingu&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trishahingu&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trishahingu&theme=github_dark" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
